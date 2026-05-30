@@ -1,0 +1,13 @@
+# Credentials and secrets
+*.env
+config.json
+credentials.json
+service_account.json
+.clasp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
